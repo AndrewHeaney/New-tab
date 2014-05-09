@@ -1,5 +1,5 @@
 body {
-	background-color: #59ABE3;
+	background-color: #1BA39C;
 }
 h1 {
 	text-align: center;
@@ -42,12 +42,39 @@ ul {
 	margin-left: 200px;
 	margin-top: 125px;
 }
+.top:hover {
+	background-color: #DADFE1;
+}
 .drive {
 	margin-top: 125px;
 }
-.gplus {
+.drive:hover {
+	background-color: #DADFE1;
+}
+.gmail {
 	margin-top: 125px;
+}
+.gmail:hover {
+	background-color: #DADFE1;
+}
+.plus:hover {
+	background-color: #DADFE1;
+}
+.dic:hover {
+	background-color: #DADFE1;
 }
 .bottom {
 	margin-left: 450px; 
+}
+.bottom:hover {
+	background-color: #DADFE1;
+}
+.middle:hover {
+	background-color: #DADFE1;
+}
+.google:hover {
+	background-color: #DADFE1;
+}
+.places:hover {
+	background-color: #DADFE1;
 }
