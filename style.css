@@ -8,18 +8,7 @@ h1 {
 	font-family: 'Roboto', sans-serif;
 	font-size: 45px;
 	margin-bottom: -5px;
-	border-top:4px double white;
-	border-bottom:4px double white;
 	margin: 0 auto;
-}
- {
-	width: 15%;
-	text-decoration: none;
-	height: 1px;
-	color: white;
-	background-color: white;
-	border:0;
-	margin-bottom: -30px;
 }
 a {
 	text-decoration: none;
